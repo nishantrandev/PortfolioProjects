@@ -41,4 +41,5 @@ This project focuses on querying and analyzing the Gravity Book Store Database, 
 
 To reproduce the analysis, you can execute the provided SQL queries on your Gravity Book Store Database.
 
-Code to create the database and inserting data is available.
+Code to create the database and inserting data: [link]([url](https://github.com/nishantrandev/PortfolioProjects/blob/main/SQL/Querying%20Gravity%20Book%20Store%20Database/Creating_db_and_inserting_data.sql)https://github.com/nishantrandev/PortfolioProjects/blob/main/SQL/Querying%20Gravity%20Book%20Store%20Database/Creating_db_and_inserting_data.sql)
+Entity Relationship (ER) Diagram: [link]([url](https://github.com/nishantrandev/PortfolioProjects/blob/main/SQL/Querying%20Gravity%20Book%20Store%20Database/ERD.png)https://github.com/nishantrandev/PortfolioProjects/blob/main/SQL/Querying%20Gravity%20Book%20Store%20Database/ERD.png)
