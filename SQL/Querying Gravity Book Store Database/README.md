@@ -41,4 +41,5 @@ This project focuses on querying and analyzing the Gravity Book Store Database, 
 
 To reproduce the analysis, you can execute the provided SQL queries on your Gravity Book Store Database.
 
-Code to create the database and inserting data is available.
+The script to create the database and insert data can be found in [Creating_db_and_inserting_data.sql](Creating_db_and_inserting_data.sql), and the Entity Relationship (ER) Diagram is available at [ERD.png](ERD.png).
+
