@@ -1,7 +1,7 @@
 # Employee Attrition Analysis in Power BI
 
 #### The interactive dashboard can be viewed [here](https://www.novypro.com/project/employee-attrition-analysis-power-bi)
-
+![Dashboard](https://github.com/nishantrandev/PortfolioProjects/blob/main/Power%20BI/Employee%20Attrition%20Analysis/Images/snapshot.png)
 ## Overview
 
 This Power BI project, titled "Employee Attrition Analysis," delves into the attrition patterns within a workforce, providing a comprehensive snapshot of employee demographics and attrition rates. The key highlights include:
