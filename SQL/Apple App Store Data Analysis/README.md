@@ -68,7 +68,7 @@ Our stakeholder is an aspiring app developer seeking data-driven insights to mak
 
 10. **Impact of Language Support on Ratings:**
    - 10 - 30 languages: 4.13
-   - > 30 languages: 3.78
+   - \> 30 languages: 3.78
    - <10 languages: 3.37
 
 11. **Correlation Between App Description Length and User Ratings:**
